@@ -1,23 +1,23 @@
 # Bike Sharing Demand
-
+<br/>
 
 ## PURPOSE
 
 워싱턴 DC의 자전거 대여 수요를 예측해보자<br/>
 <br/>
 
----
+
 
 ## MEMBERS 
 
-🦸‍♂️강건<br/>
-🦸‍♀️서예원<br/>
-👨‍⚕️송준<br/>
-👨‍💼이세운<br/>
+- 🦸‍♂️ 강건
+- 🦸‍♀️ 서예원
+- 👨‍🎓 송준
+- 👨‍💼 이세운
 
 <br/>
 
----
+
 
 ## DESCRIPTION
 
@@ -38,7 +38,7 @@ casual - number of non-registered user rentals initiated<br/>
 registered - number of registered user rentals initiated<br/>
 count - number of total rentals<br/>
 
----
+
 ## RESULTS
 ![1](https://user-images.githubusercontent.com/92356170/179180513-4e195bef-645c-4439-b0b1-00e9e96e499d.png)<br/>
 ![2](https://user-images.githubusercontent.com/92356170/179180519-27343d73-d8e6-4e5a-b3dd-0b5b220ce27e.png)<br/>
